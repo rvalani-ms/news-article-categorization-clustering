@@ -12,14 +12,14 @@ This project applies unsupervised machine learning to automatically cluster news
 #### 📁 Project Structure
 
 -   article_modeling_project.ipynb: Main script for data processing, modeling, and visualization.
--   BBC News Summary: Directory containing the dataset (not included in the repository).
+-   data: Directory containing the dataset (not included in the repository).
 -   requirements.txt: List of required Python libraries.
 -   README.md: The project instructions.
 
 #### 📦 Dataset
 
 -   Source: BBC News Summary dataset
--   Download: Download the dataset from Kaggle: [Kaggle: BBC News Summary](https://www.kaggle.com/datasets/pariza/bbc-news-summary), unzip it, and place it in the project root directory.
+-   Download: Download the dataset from Kaggle: [Kaggle: BBC News Summary](https://www.kaggle.com/datasets/pariza/bbc-news-summary), unzip it, and place it in the project data directory.
 -   Structure: Articles are organized in subdirectories by category (e.g., business, entertainment, politics, sport, tech).
 -   Size: Approximately 2225 articles
 
