@@ -27,5 +27,14 @@ This project applies unsupervised machine learning to automatically cluster news
 
 1. Clone the repository
    git clone https://github.com/rvalani-ms/news-article-categorization-clustering
-2. Install dependencies
+2. Python 3.x
+3. Required python libraries
+    - numpy
+    - scipy
+    - scikit-learn
+    - sentence-transformers
+    - pandas
+    - torch
+    - matplotlib
+4. Install dependencies
    pip install -r requirements.txt
